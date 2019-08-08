@@ -1,14 +1,12 @@
-# LAB - 
+# LAB - 16
 
-## Project Name
+## Event Driven Applications
 
-### Author: Student/Group Name
+### Author: Pratiibh Bassi
 
 ### Links and Resources
 * [submission PR](http://xyz.com)
 * [travis](http://xyz.com)
-* [back-end](http://xyz.com) (when applicable)
-* [front-end](http://xyz.com) (when applicable)
 
 #### Documentation
 * [api docs](http://xyz.com) (API servers)
